@@ -22,11 +22,5 @@ Open the palette, press ctrl+shift+p (Win, Linux) or cmd+shift+p (OS X). All Pac
 
 Search for SODATheme proceed with Enter.
 
-<b>3) "Install" Files</b>
-
+<b>3) "Install" Files</b><br>
 Copy the Files from the repository in your personal folder. Go to Preferences > Browse Packages. Put the files in the "User" folder.
-
-
-<b>HINT</b>
-
-Install the Package "sFTP" a great way to modify documents on a web server. Don't forget to open the  View > SideBar.
