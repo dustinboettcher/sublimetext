@@ -20,7 +20,7 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 
 Open the palette, press ctrl+shift+p (Win, Linux) or cmd+shift+p (OS X). All Package Control commands begin with Package Control:, so <b>start</b> by typing Package or Install.
 
-Search for SODATheme proceed zith Enter.
+Search for SODATheme proceed with Enter.
 
 <b>3) "Install" Files</b>
 
