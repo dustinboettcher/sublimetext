@@ -19,3 +19,5 @@ Search for SODATheme proceed zith Enter.
 <b>3) "Install" Files</b>
 
 Copy the Files from the repository in your personal folder. 
+
+Go to (Win) or Preferences > Browse Packages (OS X). Put both files in the "User" folder.
