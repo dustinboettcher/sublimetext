@@ -1,9 +1,7 @@
-<b>Preferences.sublime-settings</b>
-
+<b>Preferences.sublime-settings</b><br>
 a basic config to enhance the workflow with sublime.
 
-<b>Soda Dark 3.sublime-theme</b>
-
+<b>Soda Dark 3.sublime-theme</b><br>
 a slight modification of the main SODATheme - basically thinner tabs.
 
 <b>1) Install Manager</b>
