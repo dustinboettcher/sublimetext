@@ -8,7 +8,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_minimap_border": false,
 	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
+	"ensure_newline_at_eof_on_save": false,
 	"fold_buttons": false,
 	"font_face": "Inconsolata",
 	"font_options":
@@ -33,9 +33,9 @@
 	"show_full_path": false,
 	"smart_indent": true,
 	"spell_check": false,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"open_files_in_new_window": false
