@@ -33,7 +33,7 @@
 	"show_full_path": false,
 	"smart_indent": true,
 	"spell_check": false,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
